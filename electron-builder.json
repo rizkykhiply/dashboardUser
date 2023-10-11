@@ -1,0 +1,10 @@
+{
+  "appId": "com.scg.vms",
+  "productName": "vms",
+  "directories": {
+    "output": "dist"
+  },
+  "win": {
+    "target": "nsis"
+  }
+}
